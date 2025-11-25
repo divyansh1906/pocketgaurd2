@@ -1,4 +1,5 @@
-# 1. Project Overview
+# PocketGuard - Student Expense Management System 
+1. Project Overview
 Greetings. *PocketGuard* is a desktop-based financial management application designed specifically to address the needs of university students. It is often observed that students living in hostels or shared accommodations struggle to keep track of their daily discretionary spending—such as tea, snacks, travel, and stationery. This lack of monitoring often leads to financial constraints before the month concludes.
 
 *PocketGuard* solves this problem by providing a simple, digital, and user-friendly platform to record daily transactions. The primary objective is to allow users to set a personal budget limit and receive immediate feedback on their spending status, thereby promoting better financial discipline.
@@ -69,5 +70,4 @@ While the current version meets all primary requirements, I have identified area
 * *Graphical Charts:* integrating `matplotlib` to show a pie chart of spending habits.
 
 ---
-*Submitted by:*Divyansh Sharma 
-*Date:*  24 November 2025
+Submitted by:Divyansh Sharma 
