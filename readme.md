@@ -15,7 +15,7 @@ The application has been engineered with the following specific capabilities to 
 # 3. Technologies & Tools Used
 I have selected standard and reliable tools to build this project, ensuring it is lightweight and easy to run on any computer:
 
-*Python* (Version 3.x):** The core logic is written in Python due to its readability and robust standard library.
+*Python* (Version 3.x):* The core logic is written in Python due to its readability and robust standard library.
 *Tkinter*: I utilized Python’s built-in GUI library to create the windows, buttons, and input fields without requiring external downloads.
  *CSV Module:* Used for the database layer to read and write expense records in a structured format that can also be opened in Microsoft Excel.
  *OS Module:* Used to handle file path verifications to prevent the application from crashing if files are missing.
